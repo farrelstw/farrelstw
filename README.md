@@ -1,7 +1,7 @@
 ### Hi im Fasawa aka farrelstw 👋
 🌱 I’m currently learning Python
 
-👀 I’m interested in Cybersecurity, Network Engineer
+👀 I’m interested in Cybersecurity, Network Engineer and become Backend Developer
 <!--
 **farrelstw/farrelstw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
