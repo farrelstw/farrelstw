@@ -1,4 +1,7 @@
 ### Hi im Fasawa aka farrelstw 👋
+
+An ordinary person as a Network Engineer and IT Support
+
 🌱 I’m currently learning Python
 
 👀 I’m interested in Cybersecurity, Network Engineer and become Backend Developer
