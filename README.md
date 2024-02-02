@@ -2,11 +2,10 @@
 
 An ordinary person as a Network Engineer and IT Support
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning Web Developer (HTML, CSS, JS)
 
 👀 I’m interested in Cybersecurity, Network Engineer and become Backend Developer
 
-🌱 I’m currently learning Web Developer (HTML, CSS, JS)
 <!--
 **farrelstw/farrelstw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
